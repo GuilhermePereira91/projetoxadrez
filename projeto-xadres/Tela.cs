@@ -17,7 +17,7 @@ namespace projeto_xadres
                     }
                     else
                     {
-                        Console.WriteLine(tab.peca(i, j) + " ");
+                        Console.Write(tab.peca(i, j) + " ");
                     }
                 }
                 Console.WriteLine();
