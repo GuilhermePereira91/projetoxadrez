@@ -1,5 +1,5 @@
 ﻿using tabuleiro;
-namespace xadres
+namespace xadrez
 {
     class Rei : Peca
     {
